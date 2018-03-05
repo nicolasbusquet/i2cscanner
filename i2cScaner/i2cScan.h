@@ -14,5 +14,5 @@
 void i2cScan();
 
 
-
+//koukjouuuu
 #endif
